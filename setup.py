@@ -79,9 +79,9 @@ setup(
     url=URL,
     author=AUTHOR,
     author_email=EMAIL,
-    license='MIT',
+    license='GPLv3',
     classifiers=[
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
     ],
